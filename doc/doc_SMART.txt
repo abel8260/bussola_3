@@ -1,0 +1,27 @@
+Técnica  SMART (aplicar a cada 15 dias)
+
+Seção S:
+WHO: pessoas envolvidas
+WHAT:  o que está a  realizar
+WHEN:  estrutura do tempo
+WHY: razões  e propósitos
+WHERE: identifica o local
+
+Seção M:
+//Mensurar prazos 
+(curto:DEPLOY
+(médio:BLESSER
+(longo:WIGDGETS
+       
+Seção A:
++(TODO) -> ("Objetivo desafiador e possivel");
+-> WIDGETS 
+Seção R:
++(DOING) -> ("relevar metas");
+-> (30 dias 
+Seção T:
+// temporal 
+lei de parkinson: nos adequamosa  prazos.
+-> (10/03/21) ENTREGA 3 
+
+                

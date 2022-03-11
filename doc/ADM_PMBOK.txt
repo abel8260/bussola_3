@@ -1,0 +1,53 @@
+NIVEIS 1 A 4 
+Tarefas#: ###### projeto vtimer 
+
+Backlog:
+## projeto de entrega 1
+=> 
+
+## projeto de entrega 2
+=>  
+
+## projeto de entrega 3
+=> 
+
+
+TODO:#
+=>  
+    
+Plan:
+
+=> 
+          
+Dev:
+Test:
+Deploy:
+Analyze:
+
+ATUALIDADE:######  
+ 
+U:
+
+TODO:#
+=> 
+      
+DOING:
+=>
+
+DONE:
+=> fr
+=> indentaçao
+=> swot
+=> mvc
+=> read-me apresentavel
+=> pd.prj
+=> pmbok(ok)
+=> eap(ok)
+      
+
+PMBOK: #### DOCUMENTAÇÃO ####
+Inicio:06/02/22
+planejamento:inpage.php 
+execução:doc
+monitoramento e controle: SUmmer:R 
+Meta-benta: entrega de valor                          

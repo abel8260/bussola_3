@@ -1,0 +1,108 @@
+*{
+padding: 0px;
+margin: 0px; 
+}
+
+html,body{
+	height: 100%;
+}
+
+
+
+#mm2{
+border:  2px solid black ;
+
+border-radius: 20%;
+
+color: white; 
+
+background-color: black ; 
+padding: 5px; 
+box-shadow: black ; 
+
+text-decoration-style: none; 
+font-weight: bold;
+text-decoration-line: none;
+
+}
+
+#mm2:active, #mm2:hover{
+
+border:  2px solid white ;
+
+border-radius: 20%;
+
+color: black; 
+
+background-color: white ; 
+padding: 5px; 
+
+
+text-decoration-style: none; 
+font-weight: bold;
+text-decoration-line: none;
+
+
+} 
+
+svg{
+	margin-left: 47%;
+
+}
+
+
+table {
+
+border:  2px solid black ;
+color: white ; 
+
+background-color: #006600 ; 
+padding: 5px; 
+
+
+text-decoration-style: none; 
+font-weight: bold;
+text-decoration-line: none;
+
+
+margin-left:  45.1%; 
+
+
+} 
+
+
+#mm0:active, #mm0:hover{
+
+
+
+color: black; 
+
+background-color: #ccc ; 
+
+
+
+text-decoration-style: none; 
+font-weight: bold;
+text-decoration-line: none;
+
+
+} 
+
+#mm0{
+	border:  2px solid black ;
+
+
+
+color: white ; 
+
+background-color: #006600 ; 
+padding: 5px; 
+text-align: centers; 
+
+
+
+text-decoration-style: none; 
+font-weight: bold;
+text-decoration-line: none;
+
+}

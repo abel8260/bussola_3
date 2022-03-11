@@ -1,0 +1,26 @@
+EAP: ########################
+
+Por fazer: (ciclo de vida)
+ciclo de vida 1 -  home.html / code_here
+
+
+Por entregar:
+(# TODO)
+# entrega 1 - inpage.php
+# entrega 2 - mainpage.php
+# entrega 3 - create.php       
+
+Por subprojeto: (mini projeto)
+#1 - verificador de pulso 
+#2 - blesser
+  
+
+
+todo
+# comentar eap;  
+
+
+
+hibrida:(OBSERVAÇÕES)  
+Documentar o documento eap  
+ 

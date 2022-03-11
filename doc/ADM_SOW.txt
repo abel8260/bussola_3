@@ -1,0 +1,18 @@
+SOW - Declaraçao de trabalho 
+    
+Nome: ps DO-IT Backlog 
+
+resultado negociado: 
+quantidade => task) 
+
+descrição dos usos dos dados:
+=>my e php
+  
+especificações técnicas: => cv
+
+compartibilidade: open source
+padrão de qualidade:A+ 
+
+
+previsão de teste:8-80(15/02/22)
+                 

@@ -1,0 +1,12 @@
+table th, table td {
+    padding:0.8em;
+    border: 1px solid;
+    width: 70px;
+}
+table th {
+    background-color:#6699FF;
+    font-weight:bold;
+}
+table {
+    margin: 20px 0;
+}
