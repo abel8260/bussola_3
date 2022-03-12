@@ -1,53 +1,57 @@
-NIVEIS 1 A 4 
-Tarefas#: ###### projeto vtimer 
+#######################################################################################
+Tarefas#: ###### projeto vtimer-- BACKLOG--conjunto-de-tarefas-ou-de-ideias------------     
 
-Backlog:
-## projeto de entrega 1
+Backlog:                                 --conjunto-de-tarefas-ou-de-ideias------------
+## projeto de entrega 0.8                --planejamento-de-postagem-0-8----------------   
 => 
 
-## projeto de entrega 2
-=>  
-
-## projeto de entrega 3
-=> 
-
-
-TODO:#
-=>  
-    
-Plan:
-
-=> 
-          
-Dev:
-Test:
-Deploy:
-Analyze:
-
-ATUALIDADE:######  
  
-U:
-
-TODO:#
+TODO:#                                   #tarefa#######################################
 => 
-      
-DOING:
-=>
 
-DONE:
-=> fr
-=> indentaçao
-=> swot
-=> mvc
-=> read-me apresentavel
-=> pd.prj
-=> pmbok(ok)
-=> eap(ok)
-      
+Plan:                                    -planejar-------------------------------------  
+=> 
 
-PMBOK: #### DOCUMENTAÇÃO ####
-Inicio:06/02/22
-planejamento:inpage.php 
-execução:doc
-monitoramento e controle: SUmmer:R 
-Meta-benta: entrega de valor                          
+Dev:                                     -desenvolvimento------------------------------
+=> 
+
+Test:                                    -teste----------------------------------------
+=> 
+
+Deploy:                                  --post-no-server------------------------------
+=> 
+
+Analyze:                                 --analise-------------------------------------
+=> 
+
+ATUALIDADE:############################################################################
+  
+U:#--------------------------------------#tarefa#######################################
+
+TODO:                                    #tarefa#a#fazer###############################
+=> SWOT(01/03/22)                        --forças-e-diminutos--------------------------  
+      
+DOING:                                   --fazendo-------------------------------------
+
+
+DONE:                                    --feito---------------------------------------
+=> DOC                                   --design-pattern------------------------------
+=> SMART15                               --documentaçao-smart-15-----------------------
+=> front                                 --front-end=visual-do-site--------------------
+=> indentaçao                            --espaço-e-nivel------------------------------
+=> swot                                  --forças-e-diminutos--------------------------
+=> mvc                                   --model-view-control--------------------------
+=> read-me apresentavel                  --read-me:documento-do-repositorio------------
+=> pd.prj                                --design-pattern------------------------------
+=> pmbok                                 --documentaçao-pmbok--------------------------
+=> eap                                   --documentaçao-eap----------------------------
+      
+FIM:U:#----------------------------------#tarefa#######################################
+
+PMBOK: #### DOCUMENTAÇÃO #################---------------------------------------------
+Inicio:                  11/03/21        --inicio--------------------------------------
+planejamento:          n-entregue        --planejamento-entregue-----------------------
+execução:         doc BY dev-ebol        --BY=POR-------------------------------------- 
+monitoramento e controle: SUmmerR        --summer:r-ia-para-laboratorio----------------
+Meta-benta: entrega de valor, CTA        --CTA=CALL-TO-ACTION--------------------------                          
+#######################################################################################

@@ -1,18 +1,21 @@
-Estrutura ITIL:
+############################################################################
+Estrutura ITIL:#############################################################
 
-Estratégia de serviço:
-#requisitos: xampp  stack  
-#necessidades: editor de texto 
+Estratégia de serviço:--------------------serviços--------------------------
+#requisitos: chromium---------------------pré-------------------------------
+#necessidades: ---------------------------necessidades----------------------
 
-Projeto de serviço:
-#service-design: pd.prj
+Projeto de serviço:-----------------------projetos-de-serviços--------------
+#service-design:scrum-helper--------------próposito-------------------------
 
-Transição de serviço:
-#mudanças na  organização: estrutura de pastas           
+Transição de serviço:---------------------mudanças--------------------------
+#mudanças na  organização:----------------mudanças--------------------------           
 
-Operação de serviço: 
-#SLA: A+ 
+Operação de serviço: ---------------------SLA-------------------------------
+#SLA: A+ ---------------------------------SLA-classificaçao-----------------
 
-Melhoria continua:
-#widgets:   
-- blesser        
+#widgets: --------------------------------serviços-extras-------------------
+melhoria continua:  ----------------------melhorias-futuras-----------------
+----------------------------------------------------------------------------  
+---------------------------------------------------------------------------- 
+############################################################################    

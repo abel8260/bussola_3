@@ -1,18 +1,21 @@
-SOW - Declaraçao de trabalho 
-    
-Nome: ps DO-IT Backlog 
+################################################################################
+SOW - Declaraçao de trabalho ###################################################
+                                       
+Nome: ps.DO-IT  for Backlog---------------P.S.:faça-----------------------------  
 
-resultado negociado: 
-quantidade => task) 
-
-descrição dos usos dos dados:
-=>my e php
-  
-especificações técnicas: => cv
-
-compartibilidade: open source
-padrão de qualidade:A+ 
+resultado negociado:----------------------resultado-negociados-em-termos--------   
 
 
-previsão de teste:8-80(15/02/22)
+descrição dos usos dos dados:-------------descriçao-de-usos--------------------- 
+
+
+especificações técnicas: => vscode Widget;widget-do-visual-studio-code---------- 
+
+compartibilidade: open source-------------é-aberto-para-comunidade--------------    
+padrão de qualidade: A+ ------------------regra--------------------------------- 
+
+
+previsão de teste: 8-80 (17/03/22) -------teste-vindo---------------------------
+FIM - SOW - ####################################################################
+################################################################################
                  

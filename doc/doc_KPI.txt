@@ -1,19 +1,25 @@
-KPI-1) meta: entrega de valor  
+########################################################################################################################
+KPI)####################################################################################################################
 
-KPI-2) produtividade: 5 horas  
+KPI-1) meta:  gerar valor--------------------------------------entregar-algo-útil---------------------------------------
 
-KPI-3) tolerância: 10 dias 
+KPI-2) produtividade: baixa------------------------------------time-de-1-dev-logo-baixa-produtividade-------------------
 
-KPI-4) capacidade: 1u
+KPI-3) tolerância: low-----------------------------------------baixa-tolerancia-----------------------------------------
 
-KPI-5) qualidade:A+ 
+KPI-4) capacidade: publico-------------------------------------open-source:-código-aberto-------------------------------
 
-KPI-6) lucratividade:  DONATE 
+KPI-5) qualidade: a+-------------------------------------------classe-gerada-pelo-github--------------------------------
 
-KPI-7) rentabilidade: DONATE 
+KPI-6) lucratividade: zero-------------------------------------zero-lucro-----------------------------------------------
 
-KPI-8) competividade: NO-IDEA 
+KPI-7) rentabilidade: opensource-------------------------------open-source:-código-aberto-------------------------------
 
-KPI-9) efetividade: in mass 
+KPI-8) competividade: +U[feat.]--------------------------------fica-para-features-futuras-ou widgets--------------------
 
-KPI-10) valor: 5U$/PER MONTH           
+KPI-9) efetividade: biblioteca de html bootstrap para código---function-funçao------------------------------------------   
+
+KPI-10) valor: entrega de valor--------------------------------entregar-algo-útil---------------------------------------           
+
+FIM-KPI)################################################################################################################
+########################################################################################################################

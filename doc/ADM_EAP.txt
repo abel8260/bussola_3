@@ -1,26 +1,23 @@
-EAP: ########################
+EAP: #####################################----------------------------------------
 
-Por fazer: (ciclo de vida)
-ciclo de vida 1 -  home.html / code_here
-
-
-Por entregar:
-(# TODO)
-# entrega 1 - inpage.php
-# entrega 2 - mainpage.php
-# entrega 3 - create.php       
-
-Por subprojeto: (mini projeto)
-#1 - verificador de pulso 
-#2 - blesser
-  
+Por fazer: (ciclo de vida)                --inicio e termino de vida do software--  
+ciclo de vida 1 -  home.html /code_here   --desenvolvimento-----------------------  
+ciclo de vida 2 - /code,/mvc,/doc,/con    --dev-e-produçao------------------------   
+ 
+ 
+Por entregar:                             --postagem do software principal--------   
+(# TODO)                                  --tarefa=to-do=a-fazer------------------    
+# entrega 1 - home.html                   ----------------------------------------
 
 
-todo
-# comentar eap;  
+Por subprojeto: (mini projeto)            --projeto-dentro-de-projeto-------------
+# - tudo ok
 
 
+todo                                      --tarefa--------------------------------  
+# tudo ok;
 
-hibrida:(OBSERVAÇÕES)  
-Documentar o documento eap  
+
+tipo: hibrida.                             --tipificaçao-------------------------- 
+################################################################################## 
  

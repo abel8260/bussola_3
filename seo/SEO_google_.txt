@@ -1,0 +1,38 @@
+##########################################################################
+SEO_GOOGLE_BASED)#########################################################
+ 
+page authority:-------------------------representatividade-da-pagina------
+[INDEX][aguardando-deploy-final]--------[...]-----------------------------
+
+autoridade do dominio:------------------representatividade-do-host--------
+[INDEX][aguardando-deploy-final]--------[...]-----------------------------
+
+relevância de links---------------------utilidade-do-link-----------------
+[INDEX][aguardando-deploy-final]--------[...]-----------------------------
+
+conteúdo  original e qualidade----------[...]-----------------------------
+[CHECK][ 0 ]--------------------------------------------------------------
+
+tamanho de conteudo---------------------numero-de-paginas-----------------
+[INDEX][ 0 ]--------------------------------------------------------
+
+palavra chave no titulo-----------------só-no-subtitulo--scrum-helper-----
+[CHECK][ 0 ]----------------------------zero------------------------------
+
+tempo de permanência na página----------[...]-----------------------------
+[INDEX][aguardando-deploy-final]--------[...]-----------------------------
+
+
+velocidade de carregamento da pagina----[sem-código-incorporado]----------
+[INDEX][ 7 ][+u]------------------------[sem-bootstrap-incluso-só-CDN]----
+
+design responsivo-----------------------[ok]------------------------------
+[CHECK][INDEX/INDEX][a+]--------------------------------------------------
+
+palavra chave no conteudo---------------só-no-subtitulo--scrum-helper-----
+[INDEX][ scrum helper]------------------ajudante-scrum--------------------
+                       
+##########################################################################
+
+
+         
