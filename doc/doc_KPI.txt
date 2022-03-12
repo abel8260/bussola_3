@@ -3,7 +3,7 @@ KPI)############################################################################
 
 KPI-1) meta:  gerar valor--------------------------------------entregar-algo-útil---------------------------------------
 
-KPI-2) produtividade: baixa------------------------------------time-de-1-dev-logo-baixa-produtividade-------------------
+KPI-2) produtividade: baixa------------------------------------time-de-3-devs-logo-baixa-produtividade------------------
 
 KPI-3) tolerância: low-----------------------------------------baixa-tolerancia-----------------------------------------
 
