@@ -5,3 +5,4 @@ Uma agenda de compromissos baseada em html, css e javascript.
 - um conceito.
 
 # preview:
+- https://abel8260.github.io/bussola_3/src/index.html
